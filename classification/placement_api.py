@@ -36,5 +36,5 @@ def predict(data: dict):
     ]])
 
     return {
-        "prediction": "YES" if result[0] == 1 else "NO"
-    }
+    "prediction": result[0]
+    }   

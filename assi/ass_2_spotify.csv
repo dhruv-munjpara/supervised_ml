@@ -1,0 +1,51 @@
+id,artist_name,track_name,track_id,popularity,danceability,energy,key,loudness,mode
+1,Olivia Rodrigo,drivers license,5wANPM4fQCJwkGd4rN57mH,92,0.561,0.431,10,-8.81,1
+2,Lil Nas X,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,90,0.593,0.503,8,-6.725,0
+3,The Kid LAROI,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,92,0.591,0.764,1,-5.484,1
+4,Olivia Rodrigo,good 4 u,4ZtFanR9U6ndgddUvNcjcG,95,0.563,0.664,9,-5.044,1
+5,Dua Lipa,Levitating (feat. DaBaby),5nujrmhLynf4yMoMtj8AQF,89,0.702,0.825,6,-3.787,0
+6,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),4iJyoBOLtHqaGxP12qzhQI,90,0.677,0.696,0,-6.181,1
+7,Doja Cat,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,88,0.764,0.705,8,-3.463,1
+8,The Weeknd,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,93,0.514,0.73,1,-5.934,1
+9,Glass Animals,Heat Waves,02MWAaffLxlfxAUY7c5dvx,94,0.761,0.525,11,-6.9,1
+10,Måneskin,Beggin',3Wrjm47oTz2sjIgck11l5e,93,0.714,0.8,11,-4.808,0
+11,Masked Wolf,Astronaut In The Ocean,6E90gq0KO6FYZVOXx8kCcC,77,0.778,0.695,4,-6.865,0
+12,Bad Bunny,DÁKITI,4MzXwWMhyBbmu6hOcLVD49,87,0.731,0.573,4,-10.059,0
+13,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,90,0.741,0.691,10,-7.395,0
+14,Ed Sheeran,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,95,0.807,0.893,11,-3.745,0
+15,The Weeknd,Save Your Tears,5QO79kh1waicV47BqGRL3g,90,0.68,0.826,0,-5.487,1
+16,BTS,Butter,2bgTY4UwhfBYhGT4HUYStN,71,0.759,0.459,8,-5.187,1
+17,Bruno Mars,Leave The Door Open,7MAibcTli4IisCtbHKrGMh,86,0.586,0.616,5,-7.964,1
+18,Olivia Rodrigo,deja vu,6HU7h9RYOaPRFeh0R3UeAr,90,0.442,0.612,2,-7.222,1
+19,Rauw Alejandro,Todo De Ti,5RwV8BvLfX5injfqYodke9,69,0.78,0.719,3,-3.613,0
+20,24kGoldn,Mood (feat. iann dior),4jPy3l0RUwlUI9T5XHBW2m,89,0.701,0.716,7,-3.671,0
+21,Tiësto,The Business,6f3Slt0GbA2bPZlz0aIFXN,88,0.798,0.62,8,-7.079,0
+22,BTS,Dynamite,4saklk6nie3yiGePpBwUoc,67,0.746,0.765,6,-4.41,0
+23,Bad Bunny,Yonaguni,2JPLbjOn0wPCngEot2STUS,94,0.644,0.648,1,-4.601,1
+24,Harry Styles,Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,90,0.548,0.816,0,-4.209,1
+25,Riton,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,4cG7HUWYHBV6R6tHn1gxrl,88,0.824,0.862,2,-3.424,1
+26,Kali Uchis,telepatía,6tDDoYIxWvMLTdKpjFkc1B,87,0.653,0.524,11,-9.016,0
+27,The Kid LAROI,WITHOUT YOU,27OeeYzk6klgBh83TSvGMA,85,0.662,0.413,0,-7.357,1
+28,Giveon,Heartbreak Anniversary,3FAJ6O0NOHQV8Mc5Ri6ENp,86,0.449,0.465,0,-8.964,1
+29,Olivia Rodrigo,traitor,5CZ40GBx1sQ9agT82CLQCT,92,0.38,0.339,3,-7.885,1
+30,Farruko,Pepas,2B4GHvToeLTOBB4QLzW3Ni,86,0.762,0.766,7,-3.955,1
+31,Ariana Grande,positions,35mvY5S1H3J2QZyna3TFe0,88,0.737,0.802,0,-4.771,1
+32,Lewis Capaldi,Someone You Loved,7qEHsqek33rTcFNT9PFqLf,88,0.501,0.405,1,-5.679,1
+33,Myke Towers,Bandido,1xK1Gg9SxG8fy2Ya373oqb,82,0.713,0.617,8,-4.637,1
+34,Måneskin,I WANNA BE YOUR SLAVE,4pt5fDVTg5GhEvEtlz9dKk,88,0.75,0.608,1,-4.008,1
+35,Polo G,RAPSTAR,18vXApRmJSgQ6wG2ll9AOg,82,0.789,0.536,6,-6.862,1
+36,Bad Bunny,LA NOCHE DE ANOCHE,2XIc1pqjXV3Cr2BQUGNBck,87,0.856,0.618,7,-4.892,1
+37,Doja Cat,Streets,60ynsPSSKe6O3sfwRnIBRf,87,0.749,0.463,11,-8.433,1
+38,The Neighbourhood,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,92,0.612,0.807,10,-2.81,1
+39,Los Legendarios,Fiel,7Bk0uXKk1uPT0XuQbpFzvs,82,0.849,0.701,6,-4.407,0
+40,Doja Cat,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,93,0.664,0.609,1,-6.509,1
+41,Dua Lipa,Don't Start Now,3PfIrDoz19wz7qK7tYeu62,84,0.793,0.793,11,-4.521,0
+42,Internet Money,Lemonade (feat. Gunna Don Toliver & NAV),7hxHWCCAIIxFLCzvDgnQHX,81,0.8,0.658,1,-6.142,0
+43,Doja Cat,Woman,6Uj1ctrBOjOas8xZXGqKk4,95,0.824,0.764,5,-4.175,0
+44,Duncan Laurence,Arcade,1J14CdDAvBTE1AJYUOwl6C,78,0.453,0.35,9,-11.639,0
+45,SZA,Good Days,3YJJjQPAbDT7mGpX3WtQ9A,86,0.436,0.655,1,-8.37,0
+46,J Balvin,Qué Más Pues?,6D2TCm4nf5nxAcdGJ7w3QP,79,0.903,0.817,8,-3.972,1
+47,Joel Corry,Head & Heart (feat. MNEK),6cx06DFPPHchuUAcTxznu9,86,0.734,0.874,8,-3.158,1
+48,Ariana Grande,34+35,6Im9k8u9iIzKMrmV7BWtlF,85,0.83,0.585,0,-6.476,1
+49,Tate McRae,you broke me first,45bE4HXI0AwGZXfZtMp8JR,88,0.667,0.373,4,-9.389,1
+50,Sebastian Yatra,Pareja Del Año,2rCbl9naJYhaxjLsfx88uM,86,0.715,0.622,4,-5.102,0

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placement Prediction Portal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Segoe UI, sans-serif
+        }
+
+        body {
+            background: linear-gradient(135deg, #2563eb, #1e3a8a);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, .25);
+            animation: fade .5s ease;
+        }
+
+        h1,
+        h2 {
+            text-align: center;
+            color: #1e3a8a;
+            margin-bottom: 15px
+        }
+
+        .hidden {
+            display: none
+        }
+
+        .question {
+            background: #f8fafc;
+            border-left: 5px solid #2563eb;
+            padding: 15px;
+            border-radius: 12px;
+            margin: 12px 0;
+        }
+
+        .question p {
+            font-weight: 600;
+            margin-bottom: 10px
+        }
+
+        label {
+            display: block;
+            padding: 8px;
+            border-radius: 8px;
+            cursor: pointer
+        }
+
+        label:hover {
+            background: #eef4ff
+        }
+
+        input[type=number] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #dbeafe;
+            border-radius: 10px;
+            margin: 8px 0 15px;
+        }
+
+        input[type=number]:focus {
+            outline: none;
+            border-color: #2563eb
+        }
+
+        button {
+            background: linear-gradient(135deg, #2563eb, #1e40af);
+            color: #fff;
+            border: none;
+            padding: 14px 25px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            transform: translateY(-2px)
+        }
+
+        .result {
+            padding: 25px;
+            border-radius: 15px;
+            background: #f0fdf4;
+            border: 2px solid #22c55e;
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .center {
+            text-align: center
+        }
+
+        .icon {
+            font-size: 70px;
+            text-align: center;
+            margin-bottom: 10px
+        }
+
+        @keyframes fade {
+            from {
+                opacity: 0
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container" id="welcome">
+        <div class="icon">🎓</div>
+        <h1>Student Placement Prediction Portal</h1>
+        <p class="center">Complete the IQ Assessment Test first.</p>
+        <div class="center" style="margin-top:20px">
+            <button onclick="startTest()">Start IQ Test</button>
+        </div>
+    </div>
+
+    <div class="container hidden" id="testPage">
+        <h2>IQ Assessment Test</h2>
+        <div id="questions"></div>
+        <div class="center" style="margin-top:20px">
+            <button onclick="calculateIQ()">Submit IQ Test</button>
+        </div>
+    </div>
+
+    <div class="container hidden" id="detailsPage">
+        <h2>Student Details</h2>
+
+        <input type="hidden" id="iq">
+
+        <label>CGPA</label>
+        <input type="number" step="0.01" id="cgpa">
+
+        <label>Previous Semester Result</label>
+        <input type="number" step="0.01" id="prev">
+
+        <label>Communication Skills (1-10)</label>
+        <input type="number" id="comm">
+
+        <label>Projects Completed</label>
+        <input type="number" id="projects">
+
+        <div class="center">
+            <button onclick="predictPlacement()">Predict Placement</button>
+        </div>
+    </div>
+
+    <div class="container hidden" id="resultPage">
+        <h2>Prediction Result</h2>
+        <div id="finalResult" class="result"></div>
+    </div>
+
+    <script>
+        const questions = [
+            ["2,4,8,16, ?", ["32", "24", "30"], 0],
+            ["15% of 200 = ?", ["30", "25", "20"], 0],
+            ["Odd one out?", ["2", "4", "7"], 2],
+            ["10 × 10 = ?", ["100", "90", "110"], 0],
+            ["50 + 25 = ?", ["75", "70", "80"], 0],
+            ["Next: 1,4,9,16, ?", ["25", "20", "36"], 0],
+            ["60 km/hr for 3 hrs = ?", ["180", "120", "150"], 0],
+            ["Shape with 3 sides?", ["Triangle", "Square", "Circle"], 0],
+            ["5 workers finish work in 10 days. 1 worker?", ["50", "20", "40"], 0],
+            ["20% of 500 = ?", ["100", "80", "120"], 0]
+        ];
+
+        const qDiv = document.getElementById("questions");
+
+        questions.forEach((q, i) => {
+            let html = `<div class='question'><p>${i + 1}. ${q[0]}</p>`;
+            q[1].forEach((op, j) => {
+                html += `<label><input type="radio" name="q${i}" value="${j}"> ${op}</label>`;
+            });
+            html += "</div>";
+            qDiv.innerHTML += html;
+        });
+
+        function startTest() {
+            welcome.classList.add("hidden");
+            testPage.classList.remove("hidden");
+        }
+
+        function calculateIQ() {
+            let score = 0;
+            questions.forEach((q, i) => {
+                let ans = document.querySelector(`input[name='q${i}']:checked`);
+                if (ans && parseInt(ans.value) === q[2]) score++;
+            });
+            let iq = 70 + (score * 5);
+            document.getElementById("iq").value = iq;
+            alert("IQ Score: " + iq);
+            testPage.classList.add("hidden");
+            detailsPage.classList.remove("hidden");
+        }
+
+        function predictPlacement() {
+            let iq = document.getElementById("iq").value;
+            let cgpa = document.getElementById("cgpa").value;
+            let prev = document.getElementById("prev").value;
+            let comm = document.getElementById("comm").value;
+            let projects = document.getElementById("projects").value;
+
+            detailsPage.classList.add("hidden");
+            resultPage.classList.remove("hidden");
+
+            finalResult.innerHTML = `
+📊 IQ Score: ${iq}<br><br>
+🎯 CGPA: ${cgpa}<br><br>
+💬 Communication: ${comm}<br><br>
+💻 Projects: ${projects}<br><br>
+⏳ Predicting...
+`;
+
+            fetch("http://127.0.0.1:8000/predict", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    IQ: Number(iq),
+                    CGPA: Number(cgpa),
+                    Prev_Sem_Result: Number(prev),
+                    Communication_Skills: Number(comm),
+                    Projects_Completed: Number(projects)
+                })
+            })
+                .then(res => res.json())
+                .then(data => {
+
+                    if (data.prediction == "Yes") {
+                        finalResult.innerHTML = `
+    🎉 High Placement Probability<br><br>
+    You have strong chances of getting placed.
+    `;
+                    }
+                    else {
+                        finalResult.innerHTML = `
+    ⚠ Low Placement Probability<br><br>
+    Focus on improving skills, projects and academics.
+    `;
+                    }
+
+                })
+                .catch(() => {
+                    finalResult.innerHTML += "<br><br>⚠ Backend not connected.";
+                });
+        }
+    </script>
+</body>
+
+</html>

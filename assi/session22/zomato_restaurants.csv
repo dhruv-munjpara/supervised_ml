@@ -1,0 +1,401 @@
+cost,rating,cuisine,location
+431.56,3.1,Fast Food,Indiranagar
+1956.07,4.0,Chinese,Gachibowli
+940.05,3.7,Chinese,Gachibowli
+697.77,4.6,North Indian,Indiranagar
+251.77,4.2,Fast Food,Bandra
+251.76,4.1,Continental,Bandra
+185.9,3.6,Fast Food,Salt Lake
+1356.74,3.1,South Indian,Connaught Place
+701.45,3.5,Continental,Bandra
+888.75,3.9,Chinese,Connaught Place
+162.48,2.6,Continental,Gachibowli
+2252.13,4.3,Chinese,Connaught Place
+1221.86,4.8,Chinese,Gachibowli
+293.21,2.4,Continental,Indiranagar
+270.41,2.8,Chinese,Indiranagar
+1357.83,3.7,Chinese,Salt Lake
+367.65,3.3,South Indian,Bandra
+596.36,3.8,Fast Food,Salt Lake
+489.32,3.6,Fast Food,Gachibowli
+356.53,3.0,South Indian,Salt Lake
+717.82,4.4,Continental,Connaught Place
+240.14,,North Indian,Gachibowli
+357.31,3.3,North Indian,Indiranagar
+423.77,4.5,North Indian,Bandra
+515.36,3.3,South Indian,Gachibowli
+1072.76,2.9,South Indian,Gachibowli
+283.64,3.7,Chinese,Connaught Place
+583.22,3.8,North Indian,Bandra
+688.5,3.9,Continental,Indiranagar
+178.54,4.0,Continental,Gachibowli
+711.2,3.9,North Indian,Gachibowli
+262.18,3.9,North Indian,Connaught Place
+190.36,3.3,North Indian,Salt Lake
+1934.21,3.2,South Indian,Indiranagar
+2172.38,4.0,South Indian,Bandra
+,3.7,South Indian,Gachibowli
+367.97,4.1,Fast Food,Gachibowli
+211.67,2.6,Continental,Indiranagar
+841.65,3.3,Continental,Salt Lake
+498.05,4.7,Chinese,Gachibowli
+228.09,,South Indian,Indiranagar
+560.13,3.8,Fast Food,Connaught Place
+171.0,4.0,Fast Food,Salt Lake
+1590.25,4.9,Continental,Bandra
+329.67,4.8,South Indian,Gachibowli
+801.75,2.7,Chinese,Indiranagar
+374.13,2.9,South Indian,Connaught Place
+590.47,,North Indian,Bandra
+624.73,3.2,South Indian,Indiranagar
+272.63,3.6,North Indian,Indiranagar
+2245.68,3.7,North Indian,Bandra
+1045.35,2.7,Chinese,Connaught Place
+1833.06,2.5,Continental,Connaught Place
+1501.29,3.1,South Indian,Salt Lake
+696.63,4.1,North Indian,Gachibowli
+1679.66,4.3,South Indian,Bandra
+205.59,4.6,Continental,Bandra
+280.88,3.6,Continental,Bandra
+177.77,,Fast Food,Connaught Place
+386.12,4.2,Continental,Gachibowli
+445.28,3.3,Chinese,Salt Lake
+339.94,3.8,North Indian,Indiranagar
+1208.73,4.0,Fast Food,Indiranagar
+414.74,3.1,Chinese,Bandra
+347.88,4.6,South Indian,Gachibowli
+619.44,3.6,North Indian,Connaught Place
+241.14,3.7,Continental,Gachibowli
+1122.29,3.0,North Indian,Gachibowli
+196.49,3.1,South Indian,Connaught Place
+2750.49,2.3,Fast Food,Bandra
+,3.6,Fast Food,Gachibowli
+282.92,5.0,Fast Food,Indiranagar
+153.32,3.0,Continental,Connaught Place
+1163.94,5.0,Chinese,Salt Lake
+886.26,4.4,Chinese,Bandra
+933.4,3.3,North Indian,Connaught Place
+1035.13,3.6,Continental,Salt Lake
+196.16,3.5,Fast Food,Salt Lake
+416.34,4.6,Fast Food,Gachibowli
+223.89,3.9,South Indian,Gachibowli
+1343.12,4.3,South Indian,Gachibowli
+735.78,3.8,Fast Food,Connaught Place
+391.09,3.5,Fast Food,Connaught Place
+189.4,3.8,Continental,Bandra
+373.49,3.4,Chinese,Gachibowli
+385.99,2.7,South Indian,Salt Lake
+934.73,4.1,Chinese,Indiranagar
+758.93,2.7,Continental,Bandra
+1459.35,3.4,Fast Food,Connaught Place
+533.44,3.3,Chinese,Bandra
+226.42,4.0,Fast Food,Bandra
+899.48,4.5,Fast Food,Bandra
+1008.24,4.3,North Indian,Bandra
+644.33,4.0,Chinese,Indiranagar
+1034.33,3.2,Chinese,Gachibowli
+558.49,3.5,Fast Food,Salt Lake
+593.81,3.4,Continental,Bandra
+484.69,3.3,North Indian,Bandra
+165.45,3.4,Fast Food,Bandra
+218.5,3.3,South Indian,Gachibowli
+845.8,3.3,South Indian,Connaught Place
+757.04,4.2,North Indian,Connaught Place
+376.44,3.0,Continental,Indiranagar
+576.26,3.2,Fast Food,Connaught Place
+1578.76,2.6,Chinese,Bandra
+322.04,4.4,North Indian,Bandra
+2334.85,3.1,Continental,Bandra
+995.25,4.0,Chinese,Indiranagar
+305.88,3.9,South Indian,Bandra
+198.06,4.4,South Indian,Connaught Place
+355.28,3.5,Chinese,Gachibowli
+255.49,3.0,North Indian,Gachibowli
+1742.97,2.7,South Indian,Salt Lake
+1140.53,1.9,Fast Food,Connaught Place
+752.1,3.7,Chinese,Bandra
+1380.91,4.1,Chinese,Gachibowli
+1126.78,3.9,South Indian,Connaught Place
+273.9,2.7,North Indian,Gachibowli
+1488.49,4.2,Fast Food,Bandra
+615.06,3.2,North Indian,Gachibowli
+1138.41,3.1,Continental,Salt Lake
+1508.55,,Continental,Salt Lake
+379.64,3.6,South Indian,Gachibowli
+219.96,2.7,South Indian,Connaught Place
+1526.06,3.6,South Indian,Connaught Place
+484.23,,Continental,Connaught Place
+1172.3,4.3,North Indian,Gachibowli
+1332.81,3.7,North Indian,Connaught Place
+154.19,,South Indian,Bandra
+578.93,3.7,Fast Food,Salt Lake
+474.16,3.0,North Indian,Bandra
+300.7,2.9,Continental,Connaught Place
+226.61,2.8,Chinese,Bandra
+,2.5,Chinese,Connaught Place
+1867.87,3.3,Chinese,Gachibowli
+384.23,4.3,Fast Food,Bandra
+588.87,5.0,South Indian,Gachibowli
+878.45,3.3,Continental,Gachibowli
+421.18,4.3,Fast Food,Indiranagar
+2290.68,3.4,Continental,Connaught Place
+2119.21,2.6,Continental,Salt Lake
+324.04,4.0,South Indian,Connaught Place
+562.6,3.7,Chinese,Salt Lake
+364.76,4.7,South Indian,Connaught Place
+351.15,2.7,Fast Food,Gachibowli
+172.55,5.0,Fast Food,Bandra
+714.3,4.6,Fast Food,Bandra
+569.11,3.6,South Indian,Indiranagar
+181.71,3.4,Continental,Salt Lake
+345.98,3.2,Continental,Salt Lake
+1583.32,3.7,North Indian,Salt Lake
+314.32,3.5,Fast Food,Gachibowli
+243.92,3.9,Continental,Salt Lake
+553.36,3.4,North Indian,Bandra
+2696.42,4.4,Continental,Gachibowli
+316.29,3.7,Fast Food,Connaught Place
+819.09,3.4,Chinese,Salt Lake
+1010.33,4.2,Fast Food,Salt Lake
+312.8,2.6,South Indian,Connaught Place
+931.65,3.8,Continental,Salt Lake
+425.11,3.6,Continental,Connaught Place
+750.3,2.8,South Indian,Gachibowli
+752.3,2.6,South Indian,Bandra
+610.43,4.2,Chinese,Connaught Place
+206.78,,Continental,Indiranagar
+1232.19,3.7,Continental,Connaught Place
+382.09,4.6,Chinese,Salt Lake
+273.86,3.9,North Indian,Gachibowli
+174.98,4.3,Chinese,Gachibowli
+686.27,3.9,Fast Food,Connaught Place
+829.11,3.4,Continental,Bandra
+160.04,3.0,South Indian,Indiranagar
+580.58,3.2,Fast Food,Gachibowli
+304.09,3.4,Continental,Salt Lake
+771.67,4.4,Chinese,Salt Lake
+264.96,4.1,Fast Food,Bandra
+854.53,3.8,Continental,Gachibowli
+443.38,4.1,North Indian,Connaught Place
+1806.21,3.9,North Indian,Salt Lake
+238.77,3.8,South Indian,Bandra
+400.28,2.7,Continental,Gachibowli
+222.27,4.3,North Indian,Gachibowli
+1701.71,3.3,Chinese,Gachibowli
+1409.0,4.3,Continental,Gachibowli
+329.0,4.3,Chinese,Gachibowli
+797.26,3.2,Chinese,Salt Lake
+1169.69,4.2,North Indian,Bandra
+636.08,3.4,Continental,Gachibowli
+602.57,3.4,Fast Food,Indiranagar
+316.13,3.8,North Indian,Indiranagar
+208.64,3.8,North Indian,Bandra
+1515.07,3.6,Continental,Connaught Place
+1534.06,2.8,Continental,Connaught Place
+751.6,,Chinese,Connaught Place
+398.43,5.0,Continental,Indiranagar
+407.74,1.9,Chinese,Connaught Place
+926.68,4.1,North Indian,Salt Lake
+7572.29,4.2,South Indian,Gachibowli
+1458.68,2.8,Fast Food,Indiranagar
+1058.14,3.3,North Indian,Bandra
+766.39,3.0,Continental,Bandra
+202.74,4.7,Fast Food,Gachibowli
+255.78,4.3,South Indian,Indiranagar
+1522.94,4.3,South Indian,Connaught Place
+709.5,3.7,Chinese,Connaught Place
+155.54,4.4,Fast Food,Salt Lake
+214.2,3.6,Chinese,Salt Lake
+803.5,4.4,North Indian,Connaught Place
+153.04,3.5,Fast Food,Bandra
+255.19,3.2,North Indian,Bandra
+627.42,4.7,Chinese,Salt Lake
+856.39,3.6,Fast Food,Gachibowli
+783.26,3.1,Chinese,Connaught Place
+302.37,3.1,Fast Food,Salt Lake
+897.25,3.1,Chinese,Salt Lake
+312.49,4.1,South Indian,Connaught Place
+386.18,3.5,Chinese,Connaught Place
+973.41,5.0,South Indian,Bandra
+779.26,4.3,Chinese,Gachibowli
+1285.17,3.8,Fast Food,Gachibowli
+793.09,4.4,Fast Food,Connaught Place
+654.03,3.3,Fast Food,Indiranagar
+209.01,2.5,Continental,Salt Lake
+425.05,3.0,North Indian,Salt Lake
+334.9,3.7,Fast Food,Connaught Place
+317.82,3.5,South Indian,Indiranagar
+2317.39,4.1,Fast Food,Bandra
+449.63,3.5,Continental,Connaught Place
+1485.63,4.0,South Indian,Connaught Place
+748.4,4.5,Continental,Salt Lake
+,3.5,South Indian,Connaught Place
+569.06,3.9,Chinese,Connaught Place
+666.09,2.5,North Indian,Connaught Place
+556.98,3.5,North Indian,Salt Lake
+280.33,2.9,Continental,Bandra
+919.06,3.7,North Indian,Bandra
+347.75,3.7,Continental,Connaught Place
+164.77,,Continental,Salt Lake
+772.18,3.3,Continental,Bandra
+266.96,5.0,North Indian,Bandra
+1842.65,2.8,Continental,Bandra
+1996.54,2.8,North Indian,Salt Lake
+1628.11,4.6,Continental,Salt Lake
+427.37,3.2,Fast Food,Connaught Place
+159.35,3.0,Continental,Gachibowli
+,5.0,South Indian,Bandra
+485.36,4.2,Continental,Gachibowli
+2190.51,3.2,Chinese,Salt Lake
+2138.24,3.7,Continental,Salt Lake
+,4.8,South Indian,Salt Lake
+359.27,4.0,South Indian,Gachibowli
+441.78,4.4,North Indian,Salt Lake
+,4.1,Fast Food,Connaught Place
+378.69,4.2,Continental,Salt Lake
+261.43,3.6,North Indian,Indiranagar
+638.24,3.6,Fast Food,Gachibowli
+1800.78,3.8,Continental,Indiranagar
+864.5,4.0,Chinese,Salt Lake
+656.47,3.4,Continental,Connaught Place
+211.34,3.7,South Indian,Bandra
+722.72,3.4,South Indian,Salt Lake
+2916.34,,Chinese,Connaught Place
+240.55,2.8,North Indian,Gachibowli
+588.3,5.0,Fast Food,Indiranagar
+1409.17,3.2,Continental,Indiranagar
+960.02,3.4,South Indian,Indiranagar
+866.44,3.1,North Indian,Gachibowli
+877.37,4.0,Chinese,Connaught Place
+417.3,3.5,South Indian,Gachibowli
+358.54,3.0,Chinese,Indiranagar
+1144.42,4.0,Continental,Salt Lake
+1146.8,4.1,Fast Food,Bandra
+1360.77,3.6,South Indian,Gachibowli
+1616.77,3.2,South Indian,Gachibowli
+579.66,4.9,Continental,Connaught Place
+567.71,3.8,North Indian,Connaught Place
+1110.57,2.8,Fast Food,Gachibowli
+3899.16,4.4,South Indian,Indiranagar
+876.33,3.1,Fast Food,Bandra
+1103.17,5.0,South Indian,Connaught Place
+7371.97,3.6,Fast Food,Indiranagar
+397.49,4.2,Chinese,Salt Lake
+,2.4,South Indian,Connaught Place
+209.22,2.8,Fast Food,Indiranagar
+668.05,4.4,North Indian,Indiranagar
+171.96,3.8,Chinese,Bandra
+525.96,4.8,Chinese,Bandra
+619.38,3.9,North Indian,Salt Lake
+1762.89,3.7,Fast Food,Indiranagar
+686.18,4.6,Continental,Indiranagar
+,4.2,North Indian,Bandra
+172.84,3.5,Fast Food,Connaught Place
+1187.61,2.9,North Indian,Connaught Place
+417.95,2.2,North Indian,Gachibowli
+231.53,3.3,South Indian,Bandra
+593.19,2.9,Fast Food,Gachibowli
+,5.0,Continental,Bandra
+,3.2,South Indian,Salt Lake
+735.13,3.2,North Indian,Indiranagar
+203.53,2.7,North Indian,Salt Lake
+181.84,3.4,North Indian,Bandra
+604.75,3.2,Fast Food,Indiranagar
+616.75,4.6,Fast Food,Connaught Place
+758.72,3.7,South Indian,Connaught Place
+4634.88,3.6,Continental,Gachibowli
+2384.13,3.5,South Indian,Bandra
+585.77,4.1,Chinese,Bandra
+384.01,3.3,North Indian,Connaught Place
+1101.39,4.0,North Indian,Salt Lake
+339.51,4.6,North Indian,Indiranagar
+496.79,3.9,South Indian,Salt Lake
+199.02,3.5,South Indian,Salt Lake
+165.41,3.0,North Indian,Connaught Place
+2122.43,3.4,South Indian,Connaught Place
+1234.66,3.9,Fast Food,Connaught Place
+864.39,2.7,Fast Food,Gachibowli
+465.52,4.1,South Indian,Salt Lake
+264.18,,North Indian,Bandra
+252.07,3.5,South Indian,Indiranagar
+322.8,3.2,South Indian,Gachibowli
+628.07,3.3,South Indian,Bandra
+902.31,4.0,Chinese,Salt Lake
+797.63,3.5,Fast Food,Connaught Place
+347.05,3.3,Continental,Salt Lake
+2008.86,3.9,Continental,Indiranagar
+953.41,3.9,Chinese,Gachibowli
+634.94,2.9,South Indian,Gachibowli
+717.62,3.9,Chinese,Indiranagar
+476.42,5.0,Chinese,Bandra
+320.8,3.9,North Indian,Bandra
+414.01,2.6,Fast Food,Gachibowli
+1000.91,3.7,Continental,Gachibowli
+158.7,2.5,South Indian,Connaught Place
+224.03,5.0,Continental,Bandra
+178.26,4.9,Continental,Indiranagar
+174.95,3.2,Fast Food,Bandra
+1310.52,2.3,Continental,Connaught Place
+879.74,3.1,Continental,Gachibowli
+535.67,3.5,Chinese,Gachibowli
+211.77,2.5,Fast Food,Connaught Place
+555.91,3.6,North Indian,Indiranagar
+534.87,3.5,South Indian,Gachibowli
+264.12,3.7,Continental,Salt Lake
+491.34,,South Indian,Gachibowli
+455.0,3.0,North Indian,Salt Lake
+3620.17,3.1,South Indian,Connaught Place
+754.87,3.6,North Indian,Connaught Place
+889.09,3.2,Chinese,Gachibowli
+431.63,,Continental,Bandra
+739.87,3.6,North Indian,Salt Lake
+569.66,4.7,South Indian,Indiranagar
+1314.81,4.1,Continental,Gachibowli
+794.98,4.3,Chinese,Indiranagar
+256.71,3.7,Continental,Gachibowli
+193.91,3.7,North Indian,Bandra
+767.04,4.6,Chinese,Bandra
+166.12,3.4,South Indian,Bandra
+678.81,3.9,Chinese,Bandra
+1840.35,3.4,Chinese,Connaught Place
+664.07,3.4,Fast Food,Connaught Place
+444.78,2.9,Chinese,Salt Lake
+768.5,3.2,Chinese,Indiranagar
+517.77,3.0,Continental,Gachibowli
+623.29,4.0,South Indian,Gachibowli
+1852.88,4.2,Continental,Connaught Place
+442.76,3.5,Continental,Gachibowli
+2099.46,3.7,North Indian,Connaught Place
+1564.55,3.5,Continental,Salt Lake
+280.74,3.1,Fast Food,Indiranagar
+193.13,4.1,Fast Food,Salt Lake
+213.74,4.0,North Indian,Bandra
+161.03,2.5,South Indian,Bandra
+209.52,3.4,South Indian,Bandra
+839.32,3.1,Continental,Salt Lake
+194.31,3.4,Continental,Gachibowli
+380.49,3.2,Continental,Indiranagar
+1268.12,3.6,South Indian,Bandra
+164.13,3.4,Chinese,Bandra
+1160.72,3.4,Fast Food,Bandra
+348.65,4.3,Chinese,Indiranagar
+225.45,3.9,Chinese,Bandra
+865.89,3.2,South Indian,Indiranagar
+744.84,3.3,Chinese,Bandra
+1409.65,3.9,North Indian,Salt Lake
+946.98,3.9,Continental,Salt Lake
+1126.2,3.2,North Indian,Indiranagar
+348.8,3.5,Fast Food,Salt Lake
+1336.0,4.7,Continental,Indiranagar
+983.25,3.2,Chinese,Salt Lake
+1136.53,4.7,Fast Food,Salt Lake
+2944.2,,Continental,Indiranagar
+469.25,4.6,Chinese,Gachibowli
+,3.2,North Indian,Salt Lake
+1048.77,3.5,Continental,Bandra
+400.04,3.3,Chinese,Gachibowli
+1752.08,4.3,North Indian,Indiranagar
+1322.9,3.3,Fast Food,Gachibowli
+486.21,4.0,Fast Food,Connaught Place
+983.87,4.0,Fast Food,Connaught Place
+992.78,3.6,Fast Food,Salt Lake

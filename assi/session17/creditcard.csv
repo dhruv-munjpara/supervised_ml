@@ -1,0 +1,51 @@
+transaction_id,timestamp,card_number_masked,cardholder_name,amount,merchant_name,merchant_category,merchant_city,merchant_country,transaction_type,card_present,device_id,ip_address,distance_from_home_km,time_since_last_transaction_min,num_transactions_last_24h,avg_transaction_amount,amount_vs_avg_ratio,is_international,is_high_risk_merchant,unusual_hour,velocity_flag,fraud_label
+TXN001,2024-01-15 08:23:11,4532****1234,John Smith,45.50,Starbucks,Food & Beverage,New York,USA,Purchase,1,DEV_A12,192.168.1.1,2.1,1440,3,42.30,1.08,0,0,0,0,0
+TXN002,2024-01-15 02:14:33,4716****5678,Maria Garcia,1250.00,Amazon,E-Commerce,Seattle,USA,Online,0,DEV_B34,10.20.5.44,0.0,15,12,85.60,14.60,0,0,1,1,1
+TXN003,2024-01-15 10:05:22,5412****9012,Robert Johnson,22.75,McDonald's,Food & Beverage,Chicago,USA,Purchase,1,DEV_C56,172.16.0.1,1.5,60,2,30.10,0.76,0,0,0,0,0
+TXN004,2024-01-15 03:45:09,4929****3456,Emily Davis,3400.00,Unknown Merchant,Electronics,Lagos,NGA,Online,0,DEV_X99,185.23.45.67,8900.0,5,28,55.20,61.59,1,1,1,1,1
+TXN005,2024-01-15 14:30:00,5105****7890,Michael Brown,150.00,Best Buy,Electronics,Los Angeles,USA,Purchase,1,DEV_D78,10.10.1.5,5.3,120,4,110.80,1.35,0,0,0,0,0
+TXN006,2024-01-15 01:12:55,4556****2345,Sarah Wilson,890.00,Luxury Store,Jewelry,Miami,USA,Purchase,0,DEV_Y01,203.0.113.5,12.0,3,18,60.40,14.74,0,1,1,1,1
+TXN007,2024-01-15 09:15:30,4532****1234,John Smith,28.00,Whole Foods,Grocery,New York,USA,Purchase,1,DEV_A12,192.168.1.1,3.8,50,4,42.30,0.66,0,0,0,0,0
+TXN008,2024-01-15 22:48:17,4716****5678,Maria Garcia,2100.00,iTunes,Digital Goods,Online,USA,Online,0,DEV_B34,10.20.5.44,0.0,2,30,85.60,24.53,0,0,1,1,1
+TXN009,2024-01-15 11:22:44,6011****6789,David Martinez,67.90,Shell Gas,Fuel,Houston,USA,Purchase,1,DEV_E90,172.31.0.1,8.2,180,2,55.30,1.23,0,0,0,0,0
+TXN010,2024-01-15 00:05:33,5412****9012,Robert Johnson,4500.00,Casino Online,Gambling,Macau,CHN,Online,0,DEV_Z12,114.23.67.89,12500.0,1,45,30.10,149.50,1,1,1,1,1
+TXN011,2024-01-15 13:10:05,4929****3456,Emily Davis,35.00,CVS Pharmacy,Healthcare,Chicago,USA,Purchase,1,DEV_F23,192.168.2.1,1.2,90,3,55.20,0.63,0,0,0,0,0
+TXN012,2024-01-15 08:55:21,5105****7890,Michael Brown,980.00,Apple Store,Electronics,Los Angeles,USA,Purchase,1,DEV_D78,10.10.1.5,4.1,30,5,110.80,8.84,0,0,0,0,0
+TXN013,2024-01-15 04:33:19,4556****2345,Sarah Wilson,175.00,Nordstrom,Clothing,Miami,USA,Purchase,0,DEV_G45,10.0.0.1,6.5,720,2,60.40,2.90,0,0,1,0,0
+TXN014,2024-01-15 15:20:38,6011****6789,David Martinez,12.50,Subway,Food & Beverage,Houston,USA,Purchase,1,DEV_E90,172.31.0.1,2.3,45,3,55.30,0.23,0,0,0,0,0
+TXN015,2024-01-15 02:02:02,4532****1234,John Smith,5000.00,Wire Transfer,Financial,Moscow,RUS,Transfer,0,DEV_W88,95.24.56.78,9200.0,2,22,42.30,118.20,1,1,1,1,1
+TXN016,2024-01-15 12:45:00,4716****5678,Maria Garcia,55.30,Target,Retail,Seattle,USA,Purchase,1,DEV_B34,10.20.5.44,4.7,200,5,85.60,0.65,0,0,0,0,0
+TXN017,2024-01-15 16:30:45,5412****9012,Robert Johnson,430.00,Delta Airlines,Travel,Chicago,USA,Online,0,DEV_C56,172.16.0.1,0.0,480,3,30.10,14.29,0,0,0,0,0
+TXN018,2024-01-15 03:15:07,4929****3456,Emily Davis,800.00,Gift Cards,Retail,Chicago,USA,Purchase,0,DEV_H67,203.45.67.89,0.5,8,15,55.20,14.49,0,1,1,1,1
+TXN019,2024-01-15 10:10:10,5105****7890,Michael Brown,42.00,Uber,Transportation,Los Angeles,USA,App,0,DEV_D78,10.10.1.5,1.8,25,6,110.80,0.38,0,0,0,0,0
+TXN020,2024-01-15 05:50:50,4556****2345,Sarah Wilson,7800.00,Crypto Exchange,Cryptocurrency,Panama,PAN,Online,0,DEV_V77,181.23.45.99,3500.0,1,35,60.40,129.14,1,1,1,1,1
+TXN021,2024-01-15 09:30:00,6011****6789,David Martinez,88.00,H&M,Clothing,Houston,USA,Purchase,1,DEV_E90,172.31.0.1,3.5,60,3,55.30,1.59,0,0,0,0,0
+TXN022,2024-01-15 14:50:22,4532****1234,John Smith,19.99,Netflix,Streaming,Online,USA,Online,0,DEV_A12,192.168.1.1,0.0,720,4,42.30,0.47,0,0,0,0,0
+TXN023,2024-01-15 01:30:15,4716****5678,Maria Garcia,1100.00,Electronics Store,Electronics,Seattle,USA,Purchase,0,DEV_I89,198.51.100.5,25.0,10,20,85.60,12.85,0,1,1,1,1
+TXN024,2024-01-15 11:45:33,5412****9012,Robert Johnson,310.00,United Airlines,Travel,Chicago,USA,Online,0,DEV_C56,172.16.0.1,0.0,360,3,30.10,10.30,0,0,0,0,0
+TXN025,2024-01-15 17:05:00,4929****3456,Emily Davis,25.00,Panera Bread,Food & Beverage,Chicago,USA,Purchase,1,DEV_F23,192.168.2.1,2.0,30,4,55.20,0.45,0,0,0,0,0
+TXN026,2024-01-15 03:03:03,5105****7890,Michael Brown,9999.00,Unknown Vendor,Unknown,Kiev,UKR,Online,0,DEV_U66,91.12.34.56,11500.0,3,40,110.80,90.24,1,1,1,1,1
+TXN027,2024-01-15 08:20:00,4556****2345,Sarah Wilson,120.00,Sephora,Beauty,Miami,USA,Purchase,1,DEV_G45,10.0.0.1,4.2,240,3,60.40,1.99,0,0,0,0,0
+TXN028,2024-01-15 13:40:19,6011****6789,David Martinez,560.00,Home Depot,Home Improvement,Houston,USA,Purchase,1,DEV_E90,172.31.0.1,7.8,90,2,55.30,10.13,0,0,0,0,0
+TXN029,2024-01-15 02:22:44,4532****1234,John Smith,620.00,ATM Withdrawal,Cash,New York,USA,ATM,1,DEV_A12,192.168.1.1,15.0,1,10,42.30,14.66,0,0,1,1,1
+TXN030,2024-01-15 10:55:00,4716****5678,Maria Garcia,33.50,Chipotle,Food & Beverage,Seattle,USA,Purchase,1,DEV_B34,10.20.5.44,3.1,40,5,85.60,0.39,0,0,0,0,0
+TXN031,2024-01-15 06:10:25,5412****9012,Robert Johnson,2200.00,Jewelry Store,Jewelry,Chicago,USA,Purchase,0,DEV_J01,203.0.113.9,0.8,2,25,30.10,73.09,0,1,1,1,1
+TXN032,2024-01-15 15:30:00,4929****3456,Emily Davis,78.00,Macy's,Clothing,Chicago,USA,Purchase,1,DEV_F23,192.168.2.1,3.4,150,4,55.20,1.41,0,0,0,0,0
+TXN033,2024-01-15 04:04:04,4556****2345,Sarah Wilson,3300.00,Electronics Store,Electronics,Miami,USA,Purchase,0,DEV_K23,198.51.100.7,20.0,5,32,60.40,54.64,0,1,1,1,1
+TXN034,2024-01-15 11:00:00,6011****6789,David Martinez,15.00,Domino's,Food & Beverage,Houston,USA,Online,0,DEV_E90,172.31.0.1,0.0,60,4,55.30,0.27,0,0,0,0,0
+TXN035,2024-01-15 09:00:00,5105****7890,Michael Brown,200.00,Costco,Grocery,Los Angeles,USA,Purchase,1,DEV_D78,10.10.1.5,6.5,480,3,110.80,1.81,0,0,0,0,0
+TXN036,2024-01-15 01:55:30,4532****1234,John Smith,450.00,PayPal Transfer,Financial,Online,USA,Transfer,0,DEV_T55,10.10.2.3,0.0,5,18,42.30,10.64,0,0,1,1,1
+TXN037,2024-01-15 14:20:00,4716****5678,Maria Garcia,95.00,REI,Sports,Seattle,USA,Purchase,1,DEV_B34,10.20.5.44,9.2,300,4,85.60,1.11,0,0,0,0,0
+TXN038,2024-01-15 05:05:05,5412****9012,Robert Johnson,1800.00,Laptop Store,Electronics,Chicago,USA,Purchase,0,DEV_L45,172.16.0.5,30.0,7,22,30.10,59.80,0,0,1,1,1
+TXN039,2024-01-15 12:00:00,4929****3456,Emily Davis,45.00,Walgreens,Healthcare,Chicago,USA,Purchase,1,DEV_F23,192.168.2.1,1.8,120,5,55.20,0.82,0,0,0,0,0
+TXN040,2024-01-15 03:30:30,5105****7890,Michael Brown,6700.00,International Transfer,Financial,Beijing,CHN,Transfer,0,DEV_S44,61.45.78.90,12000.0,2,38,110.80,60.47,1,1,1,1,1
+TXN041,2024-01-15 10:30:00,4556****2345,Sarah Wilson,65.00,Zara,Clothing,Miami,USA,Purchase,1,DEV_G45,10.0.0.1,5.5,90,4,60.40,1.08,0,0,0,0,0
+TXN042,2024-01-15 16:00:00,6011****6789,David Martinez,320.00,Best Buy,Electronics,Houston,USA,Purchase,1,DEV_E90,172.31.0.1,4.3,180,3,55.30,5.79,0,0,0,0,0
+TXN043,2024-01-15 02:45:00,4532****1234,John Smith,1600.00,Online Marketplace,E-Commerce,Online,USA,Online,0,DEV_R33,45.67.89.10,0.0,4,28,42.30,37.83,0,1,1,1,1
+TXN044,2024-01-15 13:15:00,4716****5678,Maria Garcia,18.00,Spotify,Streaming,Online,USA,Online,0,DEV_B34,10.20.5.44,0.0,360,5,85.60,0.21,0,0,0,0,0
+TXN045,2024-01-15 07:30:00,5412****9012,Robert Johnson,72.00,Gym Membership,Health & Fitness,Chicago,USA,Online,0,DEV_C56,172.16.0.1,0.0,1440,2,30.10,2.39,0,0,0,0,0
+TXN046,2024-01-15 04:15:45,4929****3456,Emily Davis,5500.00,Gold Dealer,Precious Metals,Dubai,UAE,Online,0,DEV_Q22,213.45.67.89,13000.0,3,42,55.20,99.64,1,1,1,1,1
+TXN047,2024-01-15 11:30:00,5105****7890,Michael Brown,88.50,Trader Joe's,Grocery,Los Angeles,USA,Purchase,1,DEV_D78,10.10.1.5,3.2,75,4,110.80,0.80,0,0,0,0,0
+TXN048,2024-01-15 09:45:00,4556****2345,Sarah Wilson,240.00,Boutique Hotel,Hotels,Miami,USA,Online,0,DEV_G45,10.0.0.1,0.0,600,2,60.40,3.97,0,0,0,0,0
+TXN049,2024-01-15 01:00:00,6011****6789,David Martinez,990.00,Cash Advance,Financial,Houston,USA,ATM,1,DEV_E90,172.31.0.1,18.5,2,20,55.30,17.90,0,1,1,1,1
+TXN050,2024-01-15 15:00:00,4532****1234,John Smith,105.00,Home Goods Store,Retail,New York,USA,Purchase,1,DEV_A12,192.168.1.1,4.0,120,5,42.30,2.48,0,0,0,0,0
